@@ -5,15 +5,15 @@ The robot should be able to play Bohemian Rhapsody on a piano/virtual piano. (ho
 ### schedule
 Week 1 (March 11-15)-----------: Planning, research, start drawings and designs.
 
-Week 2 (March 18-22)-----------: Finish drawings, start robot arm base
+Week 2 (March 18-22)-----------: Finish drawings, make robot arm base
 
-Week 3 (March 25-29)-----------: 
+Week 3 (March 25-29)-----------: Make robot hand and print it, start coding
 
-Week 5 (April 8-12)------------: 
+Week 5 (April 8-12)------------: Code and wire the arm to move at all, start working on the song
 
-Week 6 (April 15-19)-----------:
+Week 6 (April 15-19)-----------: Finish code
 
-Week 7 (April 22-26)-----------:
+Week 7 (April 22-26)-----------: Testing
 
 Week 8 (April 29-May 3)--------: 
 
