@@ -3,7 +3,7 @@
 ### scope
 The robot should be able to move a chess piece to a specific square on a chess board.
 ### schedule
-Week 1 (March 11-15)-----------:
+Week 1 (March 11-15)-----------: Research
 
 Week 2 (March 18-22)-----------: 
 
