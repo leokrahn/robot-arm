@@ -24,5 +24,6 @@ Week 10 (May 13-17)-------------: Finish documentation
 ![WIN_20240314_15_15_15_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/affcba4c-4c31-4067-b00e-c08e68cdc68c)
 
 ### pseudocode
+
 ### BOM
 
