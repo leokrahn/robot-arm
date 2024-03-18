@@ -27,16 +27,29 @@ Week 10 (May 13-17)-------------: Finish documentation
 
 ### BOM
 MIDI Keyboard
+
 USB-A to Micro USB cable
+
 Bolts (amount not decided)
+
 Nuts (amount not decided)
+
 Acrylic for the base, arm and hand
+
 Servo motors
+
 Filament for the axle
+
 Wheels
+
 Battery (type not decided)
+
 Metro board
+
 Prototyping shield
+
 Wires
+
 Switch
+
 Button
