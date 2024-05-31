@@ -58,12 +58,14 @@ while True:
 ```
 ## cad
 ![Screenshot 2024-05-30 154836](https://github.com/leokrahn/robot-arm/assets/143544783/85eaf7d2-d714-4026-982b-2110c074d28c)
+the rack and pinion
 ![Screenshot 2024-05-30 154913](https://github.com/leokrahn/robot-arm/assets/143544783/23e00094-1121-47da-a101-3dc395635ffb)
-
+the robot arm
 ## physical evidence
 ![ezgif-6-0f4c220a4b](https://github.com/leokrahn/robot-arm/assets/143544783/3136c8ab-a7e5-4794-8706-51a40df1295d)
 ![WIN_20240531_15_23_00_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/3910183b-0732-4b6d-a43d-ffe059e7c37d)
 ![WIN_20240531_15_23_53_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/3619ef9b-1437-4c67-9a85-0c7738ec87eb)
+![IMG_0646](https://github.com/leokrahn/robot-arm/assets/143544783/9de413c5-29a4-471d-bd8b-94e7abe38434)
 
 ## schedule
 Week 1 (March 11-15)-----------: Planned, researched, started drawings and designs.
@@ -89,6 +91,11 @@ Week 10 (May 19-24)-------------: Code got to the point where it would need to b
 Week 10 (May 26-31)-------------: Documented, printed rack and rack walls
 
 ## reflection
+The project could have been a lot better in my opinion, if we had spent more time doing work I think we could have finished so. So I advise as a "nugget of wisdom" to not goof off just because you think you have a lot of time to work on it. The project idea itself was ambitious but at the same time we got pretty close. If we had time to assemble the whole thing together, the only major thing that would be left would be to measure how fast the servo moves the pinion along the rack, and then to write each individual note. I also advise to make sure both partners have something they can be working at all times, to maximize efficiency. 
 
+There were a couple things that were obstacles for us along the way when making this project. The first problem we came across was making the pinion gear be able to smoothly move along the rack. It some math to figure out but eventually Leo W was able to design the rack so that the pinion could mooth smoothly along it. From there to the point we got was pretty straightfoward, we came up with the idea to put walls on the side of it to prevent it from falling off, but it was a lot of trial and error since we kept printing things that had one minor things wrong with it. The version that we have right now works, it just needs to be assembled fully. The other major issue we had was calculating how fast the motor will move the pinion along the rack, so we know how long it has to spin for in order to hit the right notes. As it turns out it's not possible to do that as the weight of the pinion and whats on top of it affects the rpm (rotation speed) of the motor. So as I already stated that would have been the next step after assembling the whole thing.
 
-##obituary :(
+## obituary :(
+It is very unfortunate that we were unable to finish the project because I think it would have been great. If I could pick it back up I would make sure to really lock in and not goof off. But seriously the first thing I would do would be to assemble it. Then I would print the arm part, assemble that, make sure it all works properly, put the servos in the right place, measure how fast the servos move the pinion, and then code each individual note so that it works properly.
+
+The number one thing I'd do differently would be to work harder. I would also not waste time trying to calculate the speed of pinion.
