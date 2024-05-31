@@ -66,28 +66,29 @@ while True:
 ![WIN_20240531_15_23_53_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/3619ef9b-1437-4c67-9a85-0c7738ec87eb)
 
 ## schedule
-
-## reflection
 Week 1 (March 11-15)-----------: Planned, researched, started drawings and designs.
 
-Week 2 (March 18-22)-----------: 
+Week 2 (March 18-22)-----------: Onshape started, code started
 
-Week 3 (March 25-29)-----------: 
+Week 3 (March 25-29)-----------: Wiring started, rack created
 
-Week 5 (April 8-12)------------: 
+Week 5 (April 8-12)------------: Pinion created, wiring updated to include a second motor, plate added
 
-Week 6 (April 15-19)-----------: 
+Week 6 (April 15-19)-----------: Sizes of the parts updated to fit real life
 
-Week 7 (April 22-26)-----------: 
+Week 7 (April 22-26)-----------: Walls added to the side of the pinion to prevent it from falling off
 
-Week 8 (April 29-May 3)--------:
+Week 8 (April 29-May 3)--------: Screws and hex bolts added
 
-Week 9 (May 6-10)--------------: 
+Week 9 (May 6-10)--------------: Walls cut so the motor can spin the gear
 
-Week 10 (May 13-17)-------------:
+Week 10 (May 13-17)-------------: First version of the pinion, pinion walls, and pinion plate printed, onshape updated so that the problems with what was printed were fixed
 
-Week 10 (May 19-24)-------------: Code got to the point where it would need to be printed before we could finish it, wiring finished
+Week 10 (May 19-24)-------------: Code got to the point where it would need to be printed before we could finish it, wiring finished, pinion plate, pinion, and pinion walls printed
 
-Week 10 (May 26-31)-------------: Documented, printed newer designs
+Week 10 (May 26-31)-------------: Documented, printed rack and rack walls
+
+## reflection
+
 
 ##obituary :(
