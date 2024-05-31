@@ -1,4 +1,4 @@
-###planning
+#planning
 Our plan was to make a robot arm that can play a song on piano. Originally the song idea was Bohemian Rhapsody but we changed it to Runaway by kanye. I (Leo K) planned on bringing in a midi keyboard to hook up to the computer, which it would play the song on.
 Here is what was our main planning drawing
 ![fbih](https://github.com/leokrahn/robot-arm/assets/143544783/f9f3237e-c6ae-4ec0-ac60-ef824218075b)
@@ -61,6 +61,9 @@ while True:
 ![Screenshot 2024-05-30 154913](https://github.com/leokrahn/robot-arm/assets/143544783/23e00094-1121-47da-a101-3dc395635ffb)
 
 ##physical evidence
+![ezgif-6-0f4c220a4b](https://github.com/leokrahn/robot-arm/assets/143544783/3136c8ab-a7e5-4794-8706-51a40df1295d)
+![WIN_20240531_15_23_00_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/3910183b-0732-4b6d-a43d-ffe059e7c37d)
+![WIN_20240531_15_23_53_Pro](https://github.com/leokrahn/robot-arm/assets/143544783/3619ef9b-1437-4c67-9a85-0c7738ec87eb)
 
 ##schedule
 
